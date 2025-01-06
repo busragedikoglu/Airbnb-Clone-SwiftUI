@@ -2,8 +2,8 @@
 //  Regions.swift
 //  AirbnbTutorial
 //
-//  Created by Büşra Gedikoğlu on 25.09.2024. Edited by busra 12
-//23
+//  Created by Büşra Gedikoğlu on 25.09.2024. Edited by busra 12 -42
+//23 -36
 
 import CoreLocation
 
