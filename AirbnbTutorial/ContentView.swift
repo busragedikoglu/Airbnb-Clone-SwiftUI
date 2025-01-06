@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  AirbnbTutorial
 //
-//  Created by Büşra Gedikoğlu on 23.09.2024. 123312
-// 123123123
+//  Created by Büşra Gedikoğlu on 23.09.2024.
+// test 123 456
 
 import SwiftUI
 
