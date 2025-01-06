@@ -2,11 +2,11 @@
 //  Regions.swift
 //  AirbnbTutorial
 //
-//  Created by Büşra Gedikoğlu on 25.09.2024. Edited by Kadir ÖZTÜRK
-//  Created by Büşra Gedikoğlu on 25.09.2024. Edited by busra
-//
+//  Created by Büşra Gedikoğlu on 25.09.2024. Edited by busra 12
+//23
 
 import CoreLocation
+
 
 extension CLLocationCoordinate2D {
     static var losAngeles = CLLocationCoordinate2D(latitude: 34.0549, longitude: -118.2426)
